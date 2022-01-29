@@ -1,0 +1,24 @@
+PODS:
+  - SnapKit (5.0.1)
+  - Then (2.7.0)
+  - "UITextView+Placeholder (1.4.0)"
+
+DEPENDENCIES:
+  - SnapKit
+  - Then
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - Then
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+
+PODFILE CHECKSUM: 346b7bc272b33020cf755ccb09beaec0eabe3d57
+
+COCOAPODS: 1.11.2
